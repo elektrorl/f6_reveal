@@ -7,7 +7,7 @@ This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
 as published by Sam Hocevar. See the LICENSE file for more details.
 
-This plugin allow you to insert links to trigger modals windows (Reveal). Based on [Foundation 6 Docs](http://foundation.zurb.com/sites/docs/reveal.html).
+This CKEditor plugin allow you to insert links to trigger modals windows (Reveal). Based on [Foundation 6 Docs](http://foundation.zurb.com/sites/docs/reveal.html).
 
 ## Installation
 
