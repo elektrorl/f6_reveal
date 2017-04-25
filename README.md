@@ -21,11 +21,6 @@ Follow these steps:
     config.extraPlugins = 'f6_reveal';
     ````
 
-## How to use
-
-If everything is ok, a Youtube icon should appear on the CKEditor toolbar. Click it,
-paste your embed code or video URL and the video will be inserted.
-
 ## Languages
 
  * English
